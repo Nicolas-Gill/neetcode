@@ -1,2 +1,2 @@
 # neetcode
-My work from learning via neet.codde.io
+My work from learning via neet.code.io
